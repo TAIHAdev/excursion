@@ -1,0 +1,25 @@
+body {
+    font-family: Verdana;
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+.download {
+    color: aquamarine;
+    font-size: 16px;
+}
+#first-heading {
+    font-size: 50px;
+    font-weight: normal;
+}
+.smaller-heading {
+    font-weight: 300;
+    font-size: 42px;
+}
+p {
+    color: gray;
+    font-size: 21px;
+}
+#water-mark {
+    text-align: right ;
+}
